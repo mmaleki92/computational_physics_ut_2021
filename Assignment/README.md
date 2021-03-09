@@ -1,5 +1,8 @@
 # assignment 1
 
-aim: work with basics of python and Jupyter
+aim of this assignment: work with basics of Python, Jupyter and a little of Numpy
 
-6 question
+
+
+
+
