@@ -1,4 +1,4 @@
-# computational_physics_ut
+# computational physics ut
 
 
 This repository is for the computational physics course of the University of Tehran, physics department; here, you can find the course's codes and algorithms.
